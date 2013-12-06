@@ -6,7 +6,7 @@
 # catalog-version 1.5
 Name:		texlive-crop
 Version:	1.5
-Release:	5
+Release:	6
 Summary:	Support for cropmarks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crop
