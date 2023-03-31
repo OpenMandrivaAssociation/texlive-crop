@@ -1,6 +1,6 @@
 Name:		texlive-crop
 Version:	55424
-Release:	1
+Release:	2
 Summary:	Support for cropmarks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crop
