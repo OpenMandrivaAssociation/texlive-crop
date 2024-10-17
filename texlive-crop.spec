@@ -3,7 +3,7 @@ Version:	55424
 Release:	2
 Summary:	Support for cropmarks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crop
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/crop
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crop.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crop.doc.r%{version}.tar.xz
